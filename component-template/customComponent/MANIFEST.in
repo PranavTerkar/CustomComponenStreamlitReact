@@ -1,0 +1,1 @@
+recursive-include custom_card_component/frontend/build *
